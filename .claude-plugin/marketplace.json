@@ -1,0 +1,11 @@
+{
+  "name": "skill-seeker-marketplace",
+  "owner": { "name": "Zaheer Abbas" },
+  "plugins": [
+    {
+      "name": "skill-seeker",
+      "source": "./",
+      "description": "Finds, vets, and recommends the skills, MCP servers, plugins, libraries, and APIs a project needs."
+    }
+  ]
+}
